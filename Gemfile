@@ -20,5 +20,8 @@ group :production do
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+## Added gems
 gem 'bootstrap-sass', '~> 3.3.4.1'
 gem 'devise', '~> 3.4.1'
+gem 'paperclip', '~> 4.2.1'
